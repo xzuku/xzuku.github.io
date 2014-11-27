@@ -38,13 +38,13 @@ A [Brunch](http://brunch.io/) skeleton full of yummy cake!
 ## Getting started
 Requires [Brunch](http://brunch.io/) 1.7.x
 
-$ brunch new git://github.com/AFSTpro/brunch-banana-bacon-cakes.git [optional-output-dir]
+$ brunch new git://github.com/Xzuku/brunch-banana-bacon-cakes.git [optional-output-dir]
 $ cd [optional-output-dir]
 $ brunch w -s
 
 or
 
-$ git clone git://github.com/AFSTpro/brunch-banana-bacon-cakes.git
+$ git clone git://github.com/Xzuku/brunch-banana-bacon-cakes.git
 $ npm install
 $ brunch w -s
 
