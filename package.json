@@ -1,12 +1,12 @@
 {
     "author": "Xzuku Pixi",
-    "name": "AFSTpro",
+    "name": "Xzuku",
     "description": "Brunch Skeleton build based on pineapple-in-a-can",
     "version": "2.0.1",
-    "homepage": "afst.pro",
+    "homepage": "Xzuku.com",
     "repository": {
         "type": "git",
-        "url": "AFSTpro.github.io"
+        "url": "Xzuku.github.io"
     },
     "engines": {
         "node": "0.10.x",
